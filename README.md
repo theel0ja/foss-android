@@ -19,7 +19,15 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
 |SMS app|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), your phone's default|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)|
 
+## Instant messaging
+
+* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) (Do not use Google Play version, it has proprietary dependencies!)
+* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
+* [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
+
+
 ## Other
+
 |Proprietary app|FOSS App|
 |---------------|--------|
 |[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client)|
@@ -40,6 +48,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
 
 ## Social media
+
 |Proprietary app|FOSS App|
 |---------------|--------|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use [Twitter Lite](https://mobile.twitter.com/home) mobile site and add to home screen|
