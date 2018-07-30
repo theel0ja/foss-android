@@ -21,7 +21,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 
 ## Instant messaging
 
-* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) (Do not use Google Play version, it has proprietary dependencies!)
+* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) (FOSS fork, Do not use Google Play version, it has proprietary dependencies!)
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
 * [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
 
