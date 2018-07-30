@@ -30,7 +30,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Cloud storage|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (selfhosted)|
 |Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)|
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
-|Calendar client|[Google Calendar]|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
+|Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 
 ## "Must have"
 
