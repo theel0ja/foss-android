@@ -16,7 +16,8 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
 |Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
 |Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (firefox fork)|
-|Contacts Sync|Google Contacts|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
+|Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
+|SMS app|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), your phone's default|???, [Signal](https://signal.org/android/apk/) (proprietary apk, has Google dependencies!)|
 
 ## Other
 |Proprietary app|FOSS App|
