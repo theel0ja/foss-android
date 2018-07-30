@@ -30,7 +30,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 
 ## Instant messaging
 
-Note: Most IM networks do not have FOSS clients or even open API for making those. 😐
+Note: Most IM networks do not have FOSS clients or even open API for making those. 😥
 
 * [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Messaging platform, similar to WhatsApp (FOSS fork, do not use Google Play version, it has proprietary dependencies!)
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
