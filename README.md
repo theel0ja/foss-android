@@ -16,6 +16,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
 |Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
 |Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (firefox fork)|
+|Contacts Sync|Google Contacts|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
 
 ## Other
 |Proprietary app|FOSS App|
@@ -28,7 +29,8 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |---------------|--------|
 |Cloud storage|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (selfhosted)|
 |Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)|
-|Calendar|
+|Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
+|Calendar client|[Google Calendar]|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 
 ## "Must have"
 
