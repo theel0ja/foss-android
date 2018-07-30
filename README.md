@@ -1,0 +1,18 @@
+# FOSS-Android
+List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to proprietary Android apps
+
+## List
+
+|Purpose of the app|Proprietary app|FOSS App|Notes|
+|------------------|---------------|--------|-----|
+|Operating system|Android|[microG fork of LineageOS](https://lineage.microg.org/) (if available), [LineageOS](https://lineageos.org/)|
+||[Google Play services](https://en.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
+|App store|[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
+|Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
+|Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
+|Cloud storage|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (selfhosted)|
+|Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (firefox fork)|
+|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)|
+||[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client)|
+||[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook)|
+|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|<!-- "least important" so it's on the bottom -->
