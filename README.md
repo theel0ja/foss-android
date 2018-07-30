@@ -19,22 +19,6 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
 |SMS app|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), your phone's default|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)|
 
-## Instant messaging
-
-Note: Most IM networks do not have FOSS clients or even open API for making those. 😐
-
-* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Messaging platform, similar to WhatsApp (FOSS fork, do not use Google Play version, it has proprietary dependencies!)
-* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
-* [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
-* Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) has messaging support!
-
-
-## Other
-
-|Proprietary app|FOSS App|
-|---------------|--------|
-|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client)|
-
 ## Productivity
 
 |Proprietary app|FOSS App|
@@ -44,11 +28,14 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
 |Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 
-## "Must have"
+## Instant messaging
 
-|Proprietary app|FOSS App|
-|---------------|--------|
-|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
+Note: Most IM networks do not have FOSS clients or even open API for making those. 😐
+
+* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Messaging platform, similar to WhatsApp (FOSS fork, do not use Google Play version, it has proprietary dependencies!)
+* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
+* [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
+* Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) has messaging support!
 
 ## Social media
 
@@ -57,3 +44,15 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use [Twitter Lite](https://mobile.twitter.com/home) mobile site and add to home screen|
 |[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook)|
 |[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use [Instagram mobile site](https://www.instagram.com/) and add it to your home screen ([more info on that](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
+
+## Other
+
+|Proprietary app|FOSS App|
+|---------------|--------|
+|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client)|
+
+## "Must have"
+
+|Proprietary app|FOSS App|
+|---------------|--------|
+|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
