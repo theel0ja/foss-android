@@ -7,7 +7,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |---------------|--------|
 |Android|[microG fork of LineageOS](https://lineage.microg.org/) (if available), [LineageOS](https://lineageos.org/)|
 |[Google Play services](https://en.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
-|[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
+|[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS apps only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
 
 ## Basics
 
