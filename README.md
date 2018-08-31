@@ -28,7 +28,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)|
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
 |Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
- |Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
+|Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
 
 ## Instant messaging
 
