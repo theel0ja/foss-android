@@ -58,4 +58,4 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 |Purpose|Proprietary app|FOSS App|
 |-------|---------------|--------|
-|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
+|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
