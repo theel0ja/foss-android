@@ -25,7 +25,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Purpose|Proprietary app|FOSS App|
 |-------|---------------|--------|
 |Cloud storage|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (selfhosted)|
-|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)|
+|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), pEp|
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
 |Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 |Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
