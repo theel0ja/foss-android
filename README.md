@@ -9,6 +9,10 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |[Google Play services](https://en.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
 |[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS apps only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
 
+## Must have apps
+
+* [AdAway](https://f-droid.org/packages/org.adaway/) (requires root) or [Blokada](https://blokada.org/) (non-root) to block ads & some trackers
+
 ## Basics
 
 |Purpose of the app|Proprietary app|FOSS App|
@@ -29,6 +33,7 @@ List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alte
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
 |Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 |Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
+|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
 
 ## Instant messaging
 
@@ -54,8 +59,11 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |---------------|--------|
 |[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client)|
 
-## "Must have"
+<!--
+
+## Basics
 
 |Purpose|Proprietary app|FOSS App|
 |-------|---------------|--------|
-|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
+
+-->
