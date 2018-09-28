@@ -70,3 +70,12 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |-------|---------------|--------|
 
 -->
+
+## DNS Resolvers
+
+It's important to choose privacy respecting DNS resolver.
+
+Few ones I recommend:
+
+* [UncensoredDNS](https://blog.uncensoreddns.org/) (Denmark)
+* [DNS.WATCH](https://dns.watch/) (Germany)
