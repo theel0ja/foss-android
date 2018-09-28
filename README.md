@@ -58,7 +58,7 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |Proprietary app|FOSS App|
 |---------------|--------|
 |[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (proprietary, modded version of the original YouTube client, no ads, etc.)
-|Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (just search but works for the button (long press home button))|
+|Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (just search but works for the button (long press home button)) or Fennec F-Droid/Firefox's Assist Feature (opens url box inside the app)|
 
 <!--
 
