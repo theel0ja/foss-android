@@ -1,7 +1,7 @@
 # FOSS-Android
 List of [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to proprietary Android apps.
 
-Feel free to [fork](https://github.com/theel0ja/foss-android/fork) and star this list. :)
+Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/README.md), [fork](https://github.com/theel0ja/foss-android/fork) and star this list. :)
 
 ## Operating system
 
