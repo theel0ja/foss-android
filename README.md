@@ -1,5 +1,5 @@
 # FOSS-Android
-List of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to proprietary Android apps
+List of [free andd open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to proprietary Android apps
 
 ## Operating system
 
