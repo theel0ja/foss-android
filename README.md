@@ -81,3 +81,8 @@ Few ones I recommend:
 * [DNS.WATCH](https://dns.watch/) (Germany)
 
 Use [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), [DNS-over-TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) or [DNSCrypt](https://en.wikipedia.org/wiki/DNSCrypt) if possible to encrypt the connection.
+
+
+## Some other tips
+
+* [Small Privacy & Security Guide for Android](https://t.me/AOSDPx/80) by [@Thespartann](https://github.com/Thespartann)
