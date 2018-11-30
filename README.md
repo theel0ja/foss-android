@@ -83,7 +83,8 @@ Few ones I recommend:
 Use [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), [DNS-over-TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) or [DNSCrypt](https://en.wikipedia.org/wiki/DNSCrypt) if possible to encrypt the connection.
 
 
-## Some other tips
+## Some other tips and links
 
 * [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Small Privacy & Security Guide for Android](https://t.me/AOSDPx/80) by [@Thespartann](https://github.com/Thespartann)
+* [MicroG Support Group on Telegram](https://t.me/microGSupport) 
