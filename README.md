@@ -82,6 +82,8 @@ Few ones I recommend:
 
 Use [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), [DNS-over-TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) or [DNSCrypt](https://en.wikipedia.org/wiki/DNSCrypt) if possible to encrypt the connection.
 
+You can change your DNS resolver for example in [Blokada](https://blokada.org/).
+
 
 ## Some other tips and links
 
