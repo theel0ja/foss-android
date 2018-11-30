@@ -21,7 +21,7 @@ Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/R
 |------------------|---------------|--------|
 |Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
 |Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
-|Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Firefox fork), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox) (Firefox fork, note that not yet available from F-Droid)|
+|Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Firefox fork), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox) (Firefox fork, note that not yet available from F-Droid), [Bromite](https://www.bromite.org/) (Chromium fork, has Adblocking features as well)|
 |Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
 |SMS app|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), your phone's default|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/), [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)|
 |Keyboard|[Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin), [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey), your ROM's included keyboard|[Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/), [AnySoftKeyboard](https://anysoftkeyboard.github.io/), AOSP Keyboard (included with LineageOS)|
@@ -85,4 +85,5 @@ Use [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), [DNS-over-TL
 
 ## Some other tips
 
+* [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Small Privacy & Security Guide for Android](https://t.me/AOSDPx/80) by [@Thespartann](https://github.com/Thespartann)
