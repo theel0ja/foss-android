@@ -87,6 +87,8 @@ You can change your DNS resolver for example in [Blokada](https://blokada.org/).
 
 ## Some other tips and links
 
+
+* [My Firefox recommendations](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md)
 * [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Small Privacy & Security Guide for Android](https://t.me/AOSDPx/80) by [@Thespartann](https://github.com/Thespartann)
 * [MicroG Support Group on Telegram](https://t.me/microGSupport) 
