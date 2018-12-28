@@ -13,7 +13,7 @@ Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/R
 
 ## Must have apps
 
-* [AdAway](https://f-droid.org/packages/org.adaway/) (requires root) or [Blokada](https://blokada.org/) (non-root, [telegram group](https://t.me/blokadachat)) to block ads & some trackers
+* [AdAway](https://f-droid.org/packages/org.adaway/) (requires root, I recommend adding `https://energized.pro/blu` as source) or [Blokada](https://blokada.org/) (non-root, [telegram group](https://t.me/blokadachat)) to block ads & some trackers
 * [Copy to Clipboard](https://f-droid.org/en/packages/se.johanhil.clipboard/) or [Share to Clipboard](https://f-droid.org/en/packages/com.tengu.sharetoclipboard/)
 
 ## Basics
