@@ -7,7 +7,7 @@ Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/R
 
 |Proprietary app|FOSS App|
 |---------------|--------|
-|Android|[microG fork of LineageOS](https://lineage.microg.org/) (if available), [LineageOS](https://lineageos.org/)|
+|[Android](https://www.android.com/)|[microG fork of LineageOS](https://lineage.microg.org/) (if available), [LineageOS](https://lineageos.org/)|
 |[Google Play services](https://en.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
 |[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS apps only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
 
@@ -62,7 +62,7 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 |Proprietary app|FOSS App|
 |---------------|--------|
-|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (proprietary, modded version of the original YouTube client, no ads, etc.)
+|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client), [WebTube](https://f-droid.org/en/packages/cz.martykan.webtube/) (youtube client and NewPipe alternative), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (proprietary, modded version of the original YouTube client, no ads, etc.)
 |Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (just search but works for the button (long press home button)) or Fennec F-Droid/Firefox's Assist Feature (opens url box inside the app)|
 
 <!--
