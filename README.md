@@ -78,12 +78,9 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 It's important to choose privacy respecting DNS resolver.
 
-Few ones I recommend:
+Few ones I recommend can be found from [my wiki](https://wiki.lelux.fi/dns/resolvers).
 
-* [UncensoredDNS](https://blog.uncensoreddns.org/) (Denmark)
-* [DNS.WATCH](https://dns.watch/) (Germany)
-
-Use [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), [DNS-over-TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) or [DNSCrypt](https://en.wikipedia.org/wiki/DNSCrypt) if possible to encrypt the connection.
+Use [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS or DNSCrypt if possible to encrypt the connection.
 
 You can change your DNS resolver for example in [Blokada](https://blokada.org/).
 
