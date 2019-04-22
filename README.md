@@ -82,7 +82,7 @@ Few ones I recommend can be found from [my wiki](https://wiki.lelux.fi/dns/resol
 
 Use [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS or DNSCrypt if possible to encrypt the connection.
 
-You can change your DNS resolver for example in [Blokada](https://blokada.org/).
+You can change your DNS resolver for example in [Blokada](https://blokada.org/) or [Nebulo](https://smokescreen.app/) (DNS-over-TLS & DNS-over-HTTPS).
 
 
 ## Some other tips and links
