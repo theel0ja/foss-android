@@ -53,10 +53,10 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 |Proprietary app|FOSS App/Web-based alternative client|
 |---------------|-------------------------------------|
-|Reddit|[Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/)|
+|Reddit|[Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use [Twitter Lite](https://mobile.twitter.com/home) mobile site and add to home screen|
 |[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook)|
-|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use [Instagram mobile site](https://www.instagram.com/) and add it to your home screen ([more info on that](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
+|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|[Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/), or use [Instagram mobile site](https://www.instagram.com/) and add it to your home screen ([more info on that](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
 
 ## Other
 
