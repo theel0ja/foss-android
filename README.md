@@ -46,7 +46,7 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 * [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Messaging platform, similar to WhatsApp (FOSS fork, do not use Google Play version, it has proprietary dependencies!)
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
 * [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
-* [Riot.im](https://f-droid.org/packages/im.vector.alpha/) - Matrix client
+* [Element](https://f-droid.org/en/packages/im.vector.app/) - Matrix client
 * Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) has messaging support!
 
 ## Social media
