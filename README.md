@@ -36,7 +36,7 @@ Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/R
 |Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), [pEp](https://f-droid.org/packages/security.pEp/)|
 |Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
 |Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
-|Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
+|Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid), [Tasks.org](https://f-droid.org/packages/org.tasks) (sync with Google Tasks, DAVx, CalDAV, EteSync, DecSync CC)|
 |PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
 
 ## Instant messaging
