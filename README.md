@@ -78,7 +78,7 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 It's important to choose privacy respecting DNS resolver.
 
-Few ones I recommend can be found from [my wiki](https://wiki.lelux.fi/dns/resolvers).
+Few ones I recommend can be found from [my wiki](https://wiki.lelux.fi/dns/resolvers), or from [PrivacyTools.io](https://privacytools.io/providers/dns/).
 
 Use [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS or DNSCrypt if possible to encrypt the connection.
 
