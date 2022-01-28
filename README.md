@@ -55,7 +55,7 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 |---------------|-------------------------------------|
 |Reddit|[Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/)|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use [Twitter Lite](https://mobile.twitter.com/home) mobile site and add to home screen|
-|[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook)|
+|[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook), [Frost for Facebook](https://f-droid.org/en/packages/com.pitchedapps.frost/) (mobile wrapper for Facebook)|
 |[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use [Instagram mobile site](https://www.instagram.com/) and add it to your home screen ([more info on that](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
 
 ## Other
