@@ -20,7 +20,7 @@ Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/R
 
 |Purpose of the app|Proprietary app|FOSS App|
 |------------------|---------------|--------|
-|Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
+|Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/) (fork of [MAPS.ME](https://maps.me/))|
 |Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
 |Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Firefox fork), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox) (Firefox fork, note that not yet available from F-Droid), Tor Browser for Android, [Bromite](https://www.bromite.org/) (Chromium fork, has Adblocking features as well)|
 |Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
